@@ -23,7 +23,7 @@ tr标签代表整个表格中的一行数据, 也就是说一对tr标签就是�
 td标签代表表格中一行中的一个单元格, 也就是说一对td标签就是一行中的一个单元格
 
 3.注意点
-3.1表格标签有一个边框属性, 这个属性决定了边框的宽度. 默认情况下这个属性的值是0, 所以看不到边框
+3.1表格标签有一个边框属性 border, 这个属性决定了边框的宽度. 默认情况下这个属性的值是0, 所以看不到边框
 3.2表格标签和列表标签一样, 它是一个组合标签, 所以table/tr/td要么一起出现, 要么一起不出现, 不会单个出现
 -->
 
@@ -85,7 +85,7 @@ td标签代表表格中一行中的一个单元格, 也就是说一对td标签�
 -->
 
 <!--编写一个2行2列的表格-->
-<table border="1" width="500px" height="300px" align="center" cellspacing="12px" cellpadding="1">
+<table border="1" width="500px" align="center" cellspacing="12px" cellpadding="1">
     <tr >
         <td width="150px" height="50px">1.1</td>
         <td valign="top">这是第一行第二列的数据</td>
@@ -109,7 +109,7 @@ td标签代表表格中一行中的一个单元格, 也就是说一对td标签�
 table标签和tr标签以及td标签都支持bgcolor属性
 但是以上内容仅仅作为了解, 因为样式以后都是通过css来控制
 -->
-<table bgcolor="black" cellspacing="1px" width="500px" height="300px">
+<table bgcolor="black" cellspacing="1px" width="500px" >
     <caption>细线表格</caption>
     <tr bgcolor="white">
         <td bgcolor="red">1.1</td>
@@ -151,7 +151,7 @@ table标签和tr标签以及td标签都支持bgcolor属性
         <td>1</td>
         <td align="left">暴走大事件</td>
         <td>
-            <img src="images/up.jpg">
+            <img src="../../Source/girl.jpg">
         </td>
         <td>623557</td>
         <td>4088311</td>
@@ -165,7 +165,7 @@ table标签和tr标签以及td标签都支持bgcolor属性
         <td>1</td>
         <td align="left">暴走大事件</td>
         <td>
-            <img src="images/up.jpg">
+            <img src="../../Source/girl.jpg">
         </td>
         <td>623557</td>
         <td>4088311</td>
@@ -179,7 +179,7 @@ table标签和tr标签以及td标签都支持bgcolor属性
         <td>1</td>
         <td align="left">暴走大事件</td>
         <td>
-            <img src="images/down.jpg">
+            <img src="../../Source/girl.jpg">
         </td>
         <td>623557</td>
         <td>4088311</td>
@@ -193,7 +193,7 @@ table标签和tr标签以及td标签都支持bgcolor属性
         <td>1</td>
         <td align="left">暴走大事件</td>
         <td>
-            <img src="images/down.jpg">
+            <img src="../../Source/girl.jpg">
         </td>
         <td>623557</td>
         <td>4088311</td>
@@ -207,7 +207,7 @@ table标签和tr标签以及td标签都支持bgcolor属性
         <td>1</td>
         <td align="left">暴走大事件</td>
         <td>
-            <img src="images/up.jpg">
+            <img src="../../Source/girl.jpg">
         </td>
         <td>623557</td>
         <td>4088311</td>
@@ -221,7 +221,7 @@ table标签和tr标签以及td标签都支持bgcolor属性
         <td>1</td>
         <td align="left">暴走大事件</td>
         <td>
-            <img src="images/up.jpg">
+            <img src="../../Source/girl.jpg">
         </td>
         <td>623557</td>
         <td>4088311</td>
@@ -235,7 +235,7 @@ table标签和tr标签以及td标签都支持bgcolor属性
         <td>1</td>
         <td align="left">暴走大事件</td>
         <td>
-            <img src="images/up.jpg">
+            <img src="../../Source/girl.jpg">
         </td>
         <td>623557</td>
         <td>4088311</td>
@@ -286,28 +286,28 @@ tfoot作用: 指定表格的附加信息
 3.2.如果指定了thead和tfoot, 那么在修改整个表格的高度时, thead和tfoot有自己默认的高度, 不会随着表格的高度变化而变化
 -->
 
-<table border="1px" width="500px" height="500px">
-    <caption>表格的结构</caption>
+<table border="5px" width="500px">
+    <caption>表格的标准结构</caption>
     <thead>
-    <tr>
-        <th>姓名</th>
-        <th>年龄</th>
+    <tr bgcolor="orange">
+        <th>姓名(表头)</th>
+        <th>年龄(表头)</th>
     </tr>
     </thead>
-    <tbody>
-    <tr>
+    <tbody align="center">
+    <tr bgcolor="aqua">
         <td>张三</td>
         <td>20</td>
     </tr>
-    <tr>
+    <tr bgcolor="#7fffd4">
         <td>李四</td>
         <td>40</td>
     </tr>
     </tbody>
-    <tfoot>
+    <tfoot align="center">
     <tr>
-        <td>2</td>
-        <td>30</td>
+        <td>2(表尾)</td>
+        <td>30(表尾)</td>
     </tr>
     </tfoot>
 </table>
@@ -329,111 +329,6 @@ tfoot作用: 指定表格的附加信息
 <td rowspan="2"></td>
 含义: 把当前单元格当做两个单元格来看待
 -->
-    <!--<td></td>-->
-<table bgcolor="black" width="500px" height="300px" align="center">
-    <tr bgcolor="white">
-        <td></td>
-        <td></td>
-        <td></td>
-    </tr>
-</table>
-<tr bgcolor="white">
-    <td></td>
-    <td></td>
-</tr>
-<tr bgcolor="white">
-    <td rowspan="2"></td>
-    <td></td>
-    <td></td>
-</tr>
-
-<!--<table bgcolor="black" width="500px" height="300px" align="center">-->
-    <!--<tr bgcolor="white">-->
-        <!--<td colspan="2"></td>-->
-        <!--&lt;!&ndash;<td></td>&ndash;&gt;-->
-        <!--<td></td>-->
-    <!--</tr>-->
-    <!--<tr bgcolor="white">-->
-        <<!--<td></td>-->
-        <!--<td></td>-->
-        <!--<td></td>-->
-    <!--</tr>-->
-    <!--<tr bgcolor="white">-->
-        <!--<td></td>-->
-        <!--<td colspan="2"></td>-->
-        <!--&lt;!&ndash;<td></td>&ndash;&gt;-->
-    <!--</tr>-->
-<!--</table>-->
-
-<!--<table bgcolor="black" cellspacing="1px" width="500px" height="300px" align="center">-->
-<!--<tr bgcolor="white">-->
-<!--<td></td>-->
-<!--<td></td>-->
-<!--<td></td>-->
-<!--</tr>-->
-<!--<tr bgcolor="white">-->
-<!--<td colspan="3"></td>-->
-<!--&lt;!&ndash;<td></td>&ndash;&gt;-->
-<!--&lt;!&ndash;<td></td>&ndash;&gt;-->
-<!--</tr>-->
-<!--<tr bgcolor="white">-->
-<!--<td></td>-->
-<!--<td></td>-->
-<!--<td></td>-->
-<!--</tr>-->
-<!--<tr bgcolor="white">-->
-<!--<td></td>-->
-<!--<td></td>-->
-<!--<td></td>-->
-<!--</tr>-->
-<!--</table>-->
-
-<!--<table bgcolor="black" cellspacing="1px" width="500px" height="300px" align="center">-->
-<!--<tr bgcolor="white">-->
-<!--<td></td>-->
-<!--<td rowspan="4"></td>-->
-<!--<td></td>-->
-<!--</tr>-->
-<!--<tr bgcolor="white">-->
-<!--<td></td>-->
-<!--&lt;!&ndash;<td></td>&ndash;&gt;-->
-<!--<td></td>-->
-<!--</tr>-->
-<!--<tr bgcolor="white">-->
-<!--<td></td>-->
-<!--&lt;!&ndash;<td></td>&ndash;&gt;-->
-<!--<td></td>-->
-<!--</tr>-->
-<!--<tr bgcolor="white">-->
-<!--<td></td>-->
-<!--&lt;!&ndash;<td></td>&ndash;&gt;-->
-<!--<td></td>-->
-<!--</tr>-->
-<!--</table>-->
-
-
-<!--<table bgcolor="black" cellspacing="1px" width="500px" height="300px" align="center">-->
-<!--<tr bgcolor="white">-->
-<!--<td></td>-->
-<!--<td></td>-->
-<!--<td></td>-->
-<!--</tr>-->
-<!--<tr bgcolor="white">-->
-<!--<td colspan="2"></td>-->
-<!--&lt;!&ndash;<td></td>&ndash;&gt;-->
-<!--<td></td>-->
-<!--</tr>-->
-<!--<tr bgcolor="white">-->
-<!--<td></td>-->
-<!--<td rowspan="2"></td>-->
-<!--<td></td>-->
-<!--</tr>-->
-<!--<tr bgcolor="white">-->
-<!--<td></td>-->
-<!--&lt;!&ndash;<td></td>&ndash;&gt;-->
-<!--<td></td>-->
-<!--</tr>-->
-<!--</table>-->
 
 <!--
 快速移动选中的代码, 上下移动
