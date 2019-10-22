@@ -2,17 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="6ba8928b-257f-4ecd-ad54-25efbfb1202f" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/dictionaries/dalong.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Code/css/01-css 内联样式.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Code/css/02-css文档样式.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Code/css/03-css 外部样式表.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Code/css/04-css网页图标.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Code/css/06-css font 元素.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Code/css/07-背景色，前景色.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Code/css/cssFile/page.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Code/css/cssFile/page2.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Code/Html/10-0 表单标签.html" afterPath="$PROJECT_DIR$/Code/Html/10-0 表单标签.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Code/Html/7-详情.跑马灯,特殊字符.html" afterPath="$PROJECT_DIR$/Code/Html/7-详情.跑马灯,特殊字符.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Code/Html/2-常见标签.html" afterPath="$PROJECT_DIR$/Code/Html/2-常见标签.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Code/Html/3-图片标签.html" afterPath="$PROJECT_DIR$/Code/Html/3-图片标签.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Code/Html/4-超链接.html" afterPath="$PROJECT_DIR$/Code/Html/4-超链接.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Code/Html/5-锚点.html" afterPath="$PROJECT_DIR$/Code/Html/5-锚点.html" />
     </list>
     <ignored path="Html5.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -35,70 +29,25 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="03-page_02.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Code/01-初识CSS/03-page_02.html">
+      <file leaf-file-name="1-hello_world.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Code/Html/1-hello_world.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+            <state relative-caret-position="384">
+              <caret line="16" column="11" selection-start-line="16" selection-start-column="11" selection-end-line="16" selection-end-column="11" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="03-page_03.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Code/01-初识CSS/03-page_03.html">
+      <file leaf-file-name="7-详情.跑马灯,特殊字符.html" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Code/Html/7-详情.跑马灯,特殊字符.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="03-外部样式表.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Code/01-初识CSS/03-外部样式表.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="360">
-              <caret line="15" column="0" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="07-背景色，前景色.html" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Code/css/07-背景色，前景色.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="216">
-              <caret line="25" column="71" selection-start-line="25" selection-start-column="71" selection-end-line="25" selection-end-column="72" />
+            <state relative-caret-position="144">
+              <caret line="6" column="9" selection-start-line="6" selection-start-column="8" selection-end-line="6" selection-end-column="9" />
               <folding>
-                <element signature="n#head#0;n#html#0;n#!!top" expanded="false" />
-                <element signature="n#style#0;n#span#0;n#code#0;n#pre#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#span#1;n#code#0;n#pre#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#span#2;n#code#0;n#pre#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#span#3;n#code#0;n#pre#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#span#4;n#code#0;n#pre#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#span#5;n#code#0;n#pre#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#span#9;n#code#0;n#pre#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#span#10;n#code#0;n#pre#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#span#11;n#code#0;n#pre#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#span#13;n#code#0;n#pre#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#span#14;n#code#0;n#pre#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#span#15;n#code#0;n#pre#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#span#16;n#code#0;n#pre#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#span#17;n#code#0;n#pre#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#span#18;n#code#0;n#pre#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#span#19;n#code#0;n#pre#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="e#1344#1350#0" expanded="true" />
+                <element signature="e#1350#1356#0" expanded="true" />
               </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="03-page_01.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Code/01-初识CSS/03-page_01.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-              <folding />
             </state>
           </provider>
         </entry>
@@ -122,9 +71,6 @@
         <option value="$PROJECT_DIR$/Code/1-hello_world.html" />
         <option value="$PROJECT_DIR$/Code/Html/2-基础标签.html" />
         <option value="$PROJECT_DIR$/Code/Html/3-a标签.html" />
-        <option value="$PROJECT_DIR$/Code/Html/3-图片标签.html" />
-        <option value="$PROJECT_DIR$/Code/Html/4-超链接.html" />
-        <option value="$PROJECT_DIR$/Code/Html/5-锚点.html" />
         <option value="$PROJECT_DIR$/Code/Html/6-空链,超链接优化写法.html" />
         <option value="$PROJECT_DIR$/Code/Html/7-表格标签.html" />
         <option value="$PROJECT_DIR$/Code/Html/7-列表标签.html" />
@@ -137,8 +83,6 @@
         <option value="$PROJECT_DIR$/Code/Html/10-0 表单标签.html" />
         <option value="$PROJECT_DIR$/Code/Html/7-详情.跑马灯,特殊字符.html" />
         <option value="$PROJECT_DIR$/Code/Html/soccer.html" />
-        <option value="$PROJECT_DIR$/Code/Html/1-hello_world.html" />
-        <option value="$PROJECT_DIR$/Code/Html/2-常见标签.html" />
         <option value="$PROJECT_DIR$/Code/css/01-css.html" />
         <option value="$PROJECT_DIR$/Code/css/02-css.html" />
         <option value="$PROJECT_DIR$/Code/css/css file/page.css" />
@@ -152,6 +96,11 @@
         <option value="$PROJECT_DIR$/Code/01-初识CSS/03-外部样式表.html" />
         <option value="$PROJECT_DIR$/Code/css/06-css font 元素.html" />
         <option value="$PROJECT_DIR$/Code/css/07-背景色，前景色.html" />
+        <option value="$PROJECT_DIR$/Code/Html/3-图片标签.html" />
+        <option value="$PROJECT_DIR$/Code/Html/4-超链接.html" />
+        <option value="$PROJECT_DIR$/Code/Html/5-锚点.html" />
+        <option value="$PROJECT_DIR$/Code/Html/1-hello_world.html" />
+        <option value="$PROJECT_DIR$/Code/Html/2-常见标签.html" />
       </list>
     </option>
   </component>
@@ -221,7 +170,7 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="Code" />
+              <option name="myItemId" value="Source" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -239,7 +188,7 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="css" />
+              <option name="myItemId" value="Html" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -254,54 +203,6 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="Code" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="css" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="cssFile" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Html5" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Html5" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Code" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="01-初识CSS" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Html5" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Html5" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Code" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="01-初识CSS" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="css" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -395,7 +296,7 @@
       <workItem from="1536594250496" duration="676000" />
       <workItem from="1537710806657" duration="731000" />
       <workItem from="1566317413269" duration="8971000" />
-      <workItem from="1571759350614" duration="82000" />
+      <workItem from="1571759350614" duration="4450000" />
     </task>
     <task id="LOCAL-00001" summary="初始化项目..&#10;HTML基础学习-标签">
       <created>1527271888942</created>
@@ -443,13 +344,13 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="29552000" />
+    <option name="totallyTimeSpent" value="33920000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="29" width="1440" height="806" extended-state="6" />
-    <editor active="false" />
+    <editor active="true" />
     <layout>
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.22638889" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.22638889" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
@@ -491,17 +392,11 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/Code/Html/10-0 表单标签.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Code/Html/1-hello_world.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="336">
           <caret line="14" column="17" selection-start-line="14" selection-start-column="17" selection-end-line="14" selection-end-column="17" />
+          <folding />
         </state>
       </provider>
     </entry>
@@ -555,31 +450,10 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Code/css-文字.html" />
-    <entry file="file://$PROJECT_DIR$/Code/Html/4-超链接.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="432">
-          <caret line="18" column="7" selection-start-line="18" selection-start-column="7" selection-end-line="18" selection-end-column="7" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Code/Html/5-锚点.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="312">
-          <caret line="13" column="8" selection-start-line="13" selection-start-column="8" selection-end-line="13" selection-end-column="8" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Code/Html/8-列表标签.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="461">
           <caret line="142" column="17" selection-start-line="142" selection-start-column="17" selection-end-line="142" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Code/Html/6-空链,超链接优化写法.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="5" column="8" selection-start-line="5" selection-start-column="8" selection-end-line="5" selection-end-column="8" />
         </state>
       </provider>
     </entry>
@@ -633,13 +507,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Code/Html/2-常见标签.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="514">
-          <caret line="56" column="7" selection-start-line="56" selection-start-column="7" selection-end-line="56" selection-end-column="7" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/README.md">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
@@ -651,27 +518,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="13" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Code/Html/7-详情.跑马灯,特殊字符.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="144">
-          <caret line="6" column="9" selection-start-line="6" selection-start-column="8" selection-end-line="6" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Code/Html/3-图片标签.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="332">
-          <caret line="30" column="37" selection-start-line="30" selection-start-column="25" selection-end-line="30" selection-end-column="37" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Code/Html/1-hello_world.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="192">
-          <caret line="8" column="6" selection-start-line="8" selection-start-column="6" selection-end-line="8" selection-end-column="6" />
         </state>
       </provider>
     </entry>
@@ -728,22 +574,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Code/01-初识CSS/03-page_02.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Code/01-初识CSS/03-page_03.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Code/01-初识CSS/05-@import.html" />
     <entry file="file://$PROJECT_DIR$/Code/css/05-css @import.html">
       <provider selected="true" editor-type-id="text-editor">
@@ -776,14 +606,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Code/01-初识CSS/03-外部样式表.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="360">
-          <caret line="15" column="0" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="jar://$APPLICATION_HOME_DIR$/lib/webstorm.jar!/resources/html5-schema/html5/phrase.rnc">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="227">
@@ -794,26 +616,143 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Code/css/07-背景色，前景色.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="216">
-          <caret line="25" column="71" selection-start-line="25" selection-start-column="71" selection-end-line="25" selection-end-column="72" />
+        <state relative-caret-position="264">
+          <caret line="27" column="29" selection-start-line="27" selection-start-column="29" selection-end-line="27" selection-end-column="29" />
           <folding>
             <element signature="n#head#0;n#html#0;n#!!top" expanded="false" />
-            <element signature="n#style#0;n#span#0;n#code#0;n#pre#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#span#1;n#code#0;n#pre#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#span#2;n#code#0;n#pre#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#span#3;n#code#0;n#pre#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#span#4;n#code#0;n#pre#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#span#5;n#code#0;n#pre#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#span#9;n#code#0;n#pre#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#span#10;n#code#0;n#pre#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#span#11;n#code#0;n#pre#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#span#13;n#code#0;n#pre#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#span#14;n#code#0;n#pre#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#span#15;n#code#0;n#pre#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#span#16;n#code#0;n#pre#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#span#17;n#code#0;n#pre#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#span#18;n#code#0;n#pre#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#span#19;n#code#0;n#pre#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#span#0;n#code#0;n#pre#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#style#0;n#span#1;n#code#0;n#pre#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#style#0;n#span#2;n#code#0;n#pre#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#style#0;n#span#3;n#code#0;n#pre#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#style#0;n#span#4;n#code#0;n#pre#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#style#0;n#span#5;n#code#0;n#pre#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#style#0;n#span#9;n#code#0;n#pre#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#style#0;n#span#10;n#code#0;n#pre#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#style#0;n#span#11;n#code#0;n#pre#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#style#0;n#span#13;n#code#0;n#pre#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#style#0;n#span#14;n#code#0;n#pre#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#style#0;n#span#15;n#code#0;n#pre#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#style#0;n#span#16;n#code#0;n#pre#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#style#0;n#span#17;n#code#0;n#pre#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#style#0;n#span#18;n#code#0;n#pre#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#style#0;n#span#19;n#code#0;n#pre#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Code/01-初识CSS/03-外部样式表.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="360">
+          <caret line="15" column="0" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Code/01-初识CSS/03-page_03.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Code/01-初识CSS/03-page_02.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Code/01-初识CSS/images/aventador.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Code/Html/3-图片标签.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="445">
+          <caret line="29" column="12" selection-start-line="29" selection-start-column="12" selection-end-line="29" selection-end-column="12" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Code/Html/4-超链接.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="384">
+          <caret line="16" column="0" selection-start-line="16" selection-start-column="0" selection-end-line="16" selection-end-column="0" />
+          <folding>
+            <element signature="e#109#114#0" expanded="true" />
+            <element signature="e#115#120#0" expanded="true" />
+            <element signature="e#120#125#0" expanded="true" />
+            <element signature="e#127#132#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Code/Html/5-锚点.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="394">
+          <caret line="93" column="24" selection-start-line="93" selection-start-column="24" selection-end-line="93" selection-end-column="24" />
+          <folding>
+            <element signature="e#116#121#0" expanded="true" />
+            <element signature="e#122#127#0" expanded="true" />
+            <element signature="e#143#148#0" expanded="true" />
+            <element signature="e#150#155#0" expanded="true" />
+            <element signature="e#4943#4948#0" expanded="true" />
+            <element signature="e#4949#4954#0" expanded="true" />
+            <element signature="e#4972#4977#0" expanded="true" />
+            <element signature="e#4983#4989#0" expanded="true" />
+            <element signature="e#4989#4995#0" expanded="true" />
+            <element signature="e#4995#5001#0" expanded="true" />
+            <element signature="e#5001#5007#0" expanded="true" />
+            <element signature="e#5007#5012#0" expanded="true" />
+            <element signature="e#5048#5053#0" expanded="true" />
+            <element signature="e#5058#5063#0" expanded="true" />
+            <element signature="e#5065#5070#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Code/Html/2-常见标签.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="456">
+          <caret line="19" column="0" selection-start-line="19" selection-start-column="0" selection-end-line="19" selection-end-column="0" />
+          <folding>
+            <element signature="e#216#221#0" expanded="true" />
+            <element signature="e#234#239#0" expanded="true" />
+            <element signature="e#252#257#0" expanded="true" />
+            <element signature="e#1167#1172#0" expanded="true" />
+            <element signature="e#1175#1180#0" expanded="true" />
+            <element signature="e#1180#1185#0" expanded="true" />
+            <element signature="e#1189#1194#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Code/Html/6-空链,超链接优化写法.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="5" column="8" selection-start-line="5" selection-start-column="8" selection-end-line="5" selection-end-column="8" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Code/Html/1-hello_world.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="384">
+          <caret line="16" column="11" selection-start-line="16" selection-start-column="11" selection-end-line="16" selection-end-column="11" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Code/Html/7-详情.跑马灯,特殊字符.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="144">
+          <caret line="6" column="9" selection-start-line="6" selection-start-column="8" selection-end-line="6" selection-end-column="9" />
+          <folding>
+            <element signature="e#1344#1350#0" expanded="true" />
+            <element signature="e#1350#1356#0" expanded="true" />
           </folding>
         </state>
       </provider>
