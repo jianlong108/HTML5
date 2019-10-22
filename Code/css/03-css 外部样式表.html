@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>03-css 外部样式表</title>
+    <!--外部样式表的固定写法-->
+    <!--type="text/css" 这个type是默认值，可以不写-->
+    <!--<link rel="stylesheet" href="cssFile/page.css" type="text/css">-->
+
+
+    <!--外部样式表的固定写法-->
+    <!--可以导入多个外部样式表-->
+    <link rel="stylesheet" href="cssFile/page.css">
+    <link rel="stylesheet" href="cssFile/page2.css">
+
+    <!--外部样式表和文档样式表、内联样式表可以混合用-->
+    <style>
+        @import "cssFile/page.css";
+        p {
+            background: red;
+        }
+
+    </style>
+</head>
+<body>
+
+<div>我是div</div>
+
+<br>
+<p>
+    这是一个段落
+</p>
+
+<span style="font-size: 100px">
+    我是span
+</span>
+
+</body>
+</html>

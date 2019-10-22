@@ -1,0 +1,14 @@
+@charset "UTF-8";
+div {
+    color: azure;
+    background: orange;
+    font-size: 48px;
+    font-family: STKaiti,sans-serif;
+}
+
+span {
+    color: orange;
+    background: skyblue;
+    font-size: 48px;
+    font-family: STKaiti;
+}
