@@ -4,80 +4,79 @@
     <meta charset="UTF-8">
     <title>详情摘要</title>
     <style>
-        p{
-            font-size:50px;
+        span{
+            width: 300;
+            background-color: #cfb53b;
+
+            display:block;
+            color: white;
         }
     </style>
 </head>
 <body>
-<!--
-1.什么是详情和概要标签?
-作用:利用summary标签来描述概要信息, 利用details标签来描述详情信息
-默认情况下是折叠展示, 想看见详情必须点击
 
-格式:
-<details>
-    <summary>概要信息</summary>
-    详情信息
-</details>
--->
+<span>
+        1.什么是详情和概要标签?<br>
+        &nbsp;&nbsp;作用:利用summary标签来描述概要信息, 利用details标签来描述详情信息<br>
+        &nbsp;&nbsp;默认情况下是折叠展示, 想看见详情必须点击<br>
+        
+        格式: <br>
+        &lt;details&gt;<br>
+        &nbsp;&nbsp;&nbsp;&nbsp;&lt;summary&gt; 概要信息&lt;/summary&gt;<br>
+        &nbsp;&nbsp;&nbsp;&nbsp;详情信息<br>
+        &lt;/details&gt;
+        
+        
+        <details>
+            <summary>郑伊健</summary>
+            简介：郑伊健，1967年10月4日出生于中国香港，籍贯广东恩平，香港影视演员、流行男歌手。1988年参加新秀歌唱大赛加入无线电视，因拍摄“阳光柠檬茶”广告而入行，拜罗文为师。1991年...
+        </details>
+</span>
 
-<details>
-    <summary>郑伊健</summary>
-    简介：郑伊健，1967年10月4日出生于中国香港，籍贯广东恩平，香港影视演员、流行男歌手。1988年参加新秀歌唱大赛加入无线电视，因拍摄“阳光柠檬茶”广告而入行，拜罗文为师。1991年...
-</details>
+<br>
 
-<!--
-1.什么是marquee标签?
-作用: 跑马灯
+<span>
+    2. 什么是marquee标签?<br>
+    作用: 跑马灯<br>
+    <br>
+    格式: <br> 
+    &lt;marquee&gt;内容&lt;/marquee&gt;
+    <br>
 
-格式:
-<marquee>内容</marquee>
+    
+    属性: <br>
+    direction: 设置滚动方向 left/right/up/down <br>
+    scrollamount: 设置滚动速度, 值越大就越快 <br>
+    loop: 设置滚动次数, 默认是-1, 也就是无限滚动 <br>
+    behavior: 设置滚动类型 slide滚动到边界就停止, alternate滚动到边界就弹回 <br>
+    
+    注意点: <br>
+    marquee标签不是W3C推荐的标签, 在W3C官方文档中也无法查询这个标签, 但是各大浏览器对这个标签的支持非常好
+</span>
 
-属性:
-direction: 设置滚动方向 left/right/up/down
-scrollamount: 设置滚动速度, 值越大就越快
-loop: 设置滚动次数, 默认是-1, 也就是无限滚动
-behavior: 设置滚动类型 slide滚动到边界就停止, alternate滚动到边界就弹回
-
-注意点:
-marquee标签不是W3C推荐的标签, 在W3C官方文档中也无法查询这个标签, 但是各大浏览器对这个标签的支持非常好
--->
 
 <!--滚动方向-->
-<!--<marquee behavior="alternate" direction="left">一元抢购了,只要一元...</marquee>-->
+<marquee behavior="alternate" direction="left">一元抢购了,只要一元...</marquee>
 <br>
 <!--设置滚动速度-->
-<!--<marquee scrollamount="20">一元抢购了,只要一元...仅此一天</marquee>-->
+<marquee scrollamount="20">一元抢购了,只要一元...仅此一天</marquee>
 <br>
 <!--设置滚动次数-->
-<!--<marquee loop="1">随便写点内容</marquee>-->
+<marquee loop="1">随便写点内容</marquee>
 <br>
 
-<!--<marquee>-->
-<!--<img src="../../Source/girl.jpg" >-->
-<!--</marquee>-->
-
-<!--
-1.在HTML中对空格/回车/tab不敏感, 会把多个空格/回车/tab当做一个空格来处理
+<marquee scrollamount="10">
+    <img src="../../Source/girl.jpg" width="100">
+</marquee>
 
 
-2.什么是字符实体?
-在HTML中有的字符是被HTML保留的, 有的HTML字符在HTML中是有特殊含义的, 是不能在浏览器中直接显示出来的, 那么这些东西要想显示出来就必须通过字符实体
+<span>
 
-&nbsp; 空格, 一个&nbsp;就是一个空格, 有多少个&nbsp;就有多少个空格
-&lt; 小于符号 <
-(less than)
-&gt; 大于符号 >
-(greater than)
-&copy; 版权符号
--->
+    在HTML中对空格/回车/tab不敏感, 会把多个空格/回车/tab当做一个空格来处理 <br>
 
-<p>我&nbsp;&nbsp;&nbsp;爱你</p>
-
-<p>到此为止我们的HTML的基础标签就学习完毕了, 例如我们学习了&lt;h1&gt;标签, &lt;table&gt;标签, &lt;img&gt;标签....</p>
-
-&copy;
+    版权符号: &amp;copy; 
+    &copy;
+</span>
 
 
 </body>
